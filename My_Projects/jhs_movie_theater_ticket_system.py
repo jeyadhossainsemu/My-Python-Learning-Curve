@@ -1,5 +1,5 @@
 # so many bugs here
-# please go to here to see the updated version of this project:::> Python Learning Curve with Projects/Projects/Updated Version of Projects /JHS Movie Theater/jhs_movie_theater_using_functions_v2.0.0.py 
+# please go to here to see the updated version of this project here:> My-Python-Learning-Curve/My_Projects/jhs_movie_theater_ticket_system_v2.py 
 
 import sys # or exit() or quit() — no need to import anything for those functions
 
