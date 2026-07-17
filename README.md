@@ -32,7 +32,7 @@
 - `📄 rock_paper_scissors_game.py
 - `📄 shopping.py`
 - `📄 temperature_converter.py`
-- `📄 watched_movie_list.py
+- `📄 watched_movie_list.py`
 - `📄 weight_converter.py`
 - `📄 weight_converter_v2.0.py`
   
