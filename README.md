@@ -29,7 +29,7 @@
 - `📄 mad_libs_game.py`
 - `📄 mad_libs_game_v2.0.py`
 - `📄 mad_libs_game_v2.1.py`
-- `📄 rock_paper_scissors_game.py
+- `📄 rock_paper_scissors_game.py`
 - `📄 shopping.py`
 - `📄 temperature_converter.py`
 - `📄 watched_movie_list.py`
