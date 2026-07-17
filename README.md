@@ -29,8 +29,10 @@
 - `📄 mad_libs_game.py`
 - `📄 mad_libs_game_v2.0.py`
 - `📄 mad_libs_game_v2.1.py`
+- `📄 rock_paper_scissors_game.py
 - `📄 shopping.py`
 - `📄 temperature_converter.py`
+- `📄 watched_movie_list.py
 - `📄 weight_converter.py`
 - `📄 weight_converter_v2.0.py`
   
@@ -44,7 +46,9 @@
   <summary>Click here to see </summary>
 
 - [`📄 jhs_movie_theater_ticket_system_v2.0.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/jhs_movie_theater_ticket_system_v2.0.py)
+- [`📄 rock_paper_scissors_game.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/rock_paper_scissors_game.py)
 - [`📄 shopping.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/shopping.py)
+- [`📄 watched_movie_list.py`](https://www.github.com/jeyadhossainsemu/My-Python-Learning-Curve/blob/main/My_Projects/watched_movie_list.py)
 
 </details>
 
